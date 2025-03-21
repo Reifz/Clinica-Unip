@@ -1,0 +1,740 @@
+DEBUG - 2025-03-19 15:19:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-03-19 15:19:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-03-19 15:21:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-03-19 15:21:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-03-19 15:25:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-03-19 15:25:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-03-19 15:25:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-03-19 15:25:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-03-19 15:28:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2025-03-19 15:43:37 --> ErrorException: Undefined variable $model
+[Method: POST, Route: usuario/inserir]
+in APPPATH\Controllers\Usuario.php on line 42.
+ 1 APPPATH\Controllers\Usuario.php(42): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $model', 'C:\\xampp\\htdocs\\clinica\\app\\Controllers\\Usuario.php', 42)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Usuario->inserir()
+ 3 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuario))
+ 4 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+DEBUG - 2025-03-19 15:46:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-03-19 15:46:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-03-19 15:47:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-03-19 15:47:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-03-19 15:47:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-03-19 15:48:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-03-19 15:48:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-03-19 15:49:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-03-19 15:49:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-03-19 15:49:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-03-19 15:49:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-03-19 15:50:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-03-19 15:50:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-03-19 15:50:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-03-19 15:50:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-03-19 15:50:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-03-19 15:51:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-03-19 15:58:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2025-03-19 15:59:44 --> ErrorException: Undefined variable $dados
+[Method: POST, Route: usuario/inserir]
+in APPPATH\Controllers\Usuario.php on line 62.
+ 1 APPPATH\Controllers\Usuario.php(62): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $dados', 'C:\\xampp\\htdocs\\clinica\\app\\Controllers\\Usuario.php', 62)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Usuario->inserir()
+ 3 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuario))
+ 4 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+DEBUG - 2025-03-19 15:59:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-03-19 15:59:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-03-19 16:00:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-03-19 16:06:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-03-19 16:06:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-03-19 16:07:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-03-19 16:07:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-03-19 20:05:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-03-19 20:05:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-03-19 20:05:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-03-19 20:06:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-03-19 20:06:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-03-19 20:09:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-03-19 20:09:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-03-19 20:09:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-03-19 20:09:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-03-19 20:09:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-03-19 20:09:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2025-03-19 20:10:07 --> ErrorException: Undefined global variable $_SESSION
+[Method: GET, Route: principal/home]
+in APPPATH\Controllers\Principal.php on line 17.
+ 1 APPPATH\Controllers\Principal.php(17): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined global variable $_SESSION', 'C:\\xampp\\htdocs\\clinica\\app\\Controllers\\Principal.php', 17)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Principal->home()
+ 3 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Principal))
+ 4 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+DEBUG - 2025-03-19 20:10:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-03-19 20:12:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-03-19 20:12:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-03-19 20:13:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-03-19 20:13:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-03-19 20:13:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-03-19 20:13:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-03-19 20:13:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-03-19 20:13:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-03-19 20:14:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-03-19 20:14:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-03-19 20:14:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-03-19 20:14:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-03-19 20:14:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-03-19 20:14:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-03-19 20:14:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-03-19 20:14:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-03-19 20:14:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-03-19 20:25:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-03-19 20:25:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-03-19 20:28:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2025-03-19 20:28:53 --> Error: Class "App\Controllers\Usuario_model" not found
+[Method: GET, Route: principal/home]
+in APPPATH\Controllers\Principal.php on line 26.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Principal->home()
+ 2 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Principal))
+ 3 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+DEBUG - 2025-03-19 20:29:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2025-03-19 20:29:08 --> Error: Class "App\Models\Agendamentos_model" not found
+[Method: GET, Route: principal/home]
+in APPPATH\Controllers\Principal.php on line 26.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Principal->home()
+ 2 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Principal))
+ 3 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+DEBUG - 2025-03-19 20:29:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2025-03-19 20:29:29 --> mysqli_sql_exception: Table 'clinica.agendamentos' doesn't exist in C:\xampp\htdocs\clinica\system\Database\MySQLi\Connection.php:327
+Stack trace:
+#0 C:\xampp\htdocs\clinica\system\Database\MySQLi\Connection.php(327): mysqli->query('SELECT *\nFROM `...', 0)
+#1 C:\xampp\htdocs\clinica\system\Database\BaseConnection.php(738): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *\nFROM `...')
+#2 C:\xampp\htdocs\clinica\system\Database\BaseConnection.php(652): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *\nFROM `...')
+#3 C:\xampp\htdocs\clinica\system\Database\BaseBuilder.php(1649): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 C:\xampp\htdocs\clinica\system\Model.php(213): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\xampp\htdocs\clinica\system\BaseModel.php(609): CodeIgniter\Model->doFind(false, NULL)
+#6 C:\xampp\htdocs\clinica\app\Models\Agendamentos_model.php(22): CodeIgniter\BaseModel->find()
+#7 C:\xampp\htdocs\clinica\app\Controllers\Principal.php(29): App\Models\Agendamentos_model->buscarAgendamentosPrincipal('2')
+#8 C:\xampp\htdocs\clinica\system\CodeIgniter.php(933): App\Controllers\Principal->home()
+#9 C:\xampp\htdocs\clinica\system\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Principal))
+#10 C:\xampp\htdocs\clinica\system\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#11 C:\xampp\htdocs\clinica\system\Boot.php(334): CodeIgniter\CodeIgniter->run()
+#12 C:\xampp\htdocs\clinica\system\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+#13 C:\xampp\htdocs\clinica\public\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+#14 {main}
+CRITICAL - 2025-03-19 20:29:30 --> CodeIgniter\Database\Exceptions\DatabaseException: Table 'clinica.agendamentos' doesn't exist
+[Method: GET, Route: principal/home]
+in SYSTEMPATH\Database\BaseConnection.php on line 692.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(1649): CodeIgniter\Database\BaseConnection->query('SELECT *
+FROM `agendamentos`
+WHERE `id_usuario` = :id_usuario:
+ LIMIT 4', [...], false)
+ 2 SYSTEMPATH\Model.php(213): CodeIgniter\Database\BaseBuilder->get()
+ 3 SYSTEMPATH\BaseModel.php(609): CodeIgniter\Model->doFind(false, null)
+ 4 APPPATH\Models\Agendamentos_model.php(22): CodeIgniter\BaseModel->find()
+ 5 APPPATH\Controllers\Principal.php(29): App\Models\Agendamentos_model->buscarAgendamentosPrincipal('2')
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Principal->home()
+ 7 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Principal))
+ 8 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-03-19 20:29:30 --> [Caused by] CodeIgniter\Database\Exceptions\DatabaseException: Table 'clinica.agendamentos' doesn't exist
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 332.
+ 1 SYSTEMPATH\Database\BaseConnection.php(738): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *
+FROM `agendamentos`
+WHERE `id_usuario` = \'2\'
+ LIMIT 4')
+ 2 SYSTEMPATH\Database\BaseConnection.php(652): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *
+FROM `agendamentos`
+WHERE `id_usuario` = \'2\'
+ LIMIT 4')
+ 3 SYSTEMPATH\Database\BaseBuilder.php(1649): CodeIgniter\Database\BaseConnection->query('SELECT *
+FROM `agendamentos`
+WHERE `id_usuario` = :id_usuario:
+ LIMIT 4', [...], false)
+ 4 SYSTEMPATH\Model.php(213): CodeIgniter\Database\BaseBuilder->get()
+ 5 SYSTEMPATH\BaseModel.php(609): CodeIgniter\Model->doFind(false, null)
+ 6 APPPATH\Models\Agendamentos_model.php(22): CodeIgniter\BaseModel->find()
+ 7 APPPATH\Controllers\Principal.php(29): App\Models\Agendamentos_model->buscarAgendamentosPrincipal('2')
+ 8 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Principal->home()
+ 9 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Principal))
+10 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+11 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+12 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+13 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-03-19 20:29:30 --> [Caused by] mysqli_sql_exception: Table 'clinica.agendamentos' doesn't exist
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 327.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(327): mysqli->query('SELECT *
+FROM `agendamentos`
+WHERE `id_usuario` = \'2\'
+ LIMIT 4', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(738): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *
+FROM `agendamentos`
+WHERE `id_usuario` = \'2\'
+ LIMIT 4')
+ 3 SYSTEMPATH\Database\BaseConnection.php(652): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *
+FROM `agendamentos`
+WHERE `id_usuario` = \'2\'
+ LIMIT 4')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(1649): CodeIgniter\Database\BaseConnection->query('SELECT *
+FROM `agendamentos`
+WHERE `id_usuario` = :id_usuario:
+ LIMIT 4', [...], false)
+ 5 SYSTEMPATH\Model.php(213): CodeIgniter\Database\BaseBuilder->get()
+ 6 SYSTEMPATH\BaseModel.php(609): CodeIgniter\Model->doFind(false, null)
+ 7 APPPATH\Models\Agendamentos_model.php(22): CodeIgniter\BaseModel->find()
+ 8 APPPATH\Controllers\Principal.php(29): App\Models\Agendamentos_model->buscarAgendamentosPrincipal('2')
+ 9 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Principal->home()
+10 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Principal))
+11 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+12 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+13 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+14 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+DEBUG - 2025-03-19 20:29:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-03-19 20:30:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-03-19 20:31:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-03-19 20:32:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-03-19 20:33:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-03-19 20:33:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-03-19 20:33:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-03-19 20:36:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2025-03-19 20:36:43 --> ErrorException: Undefined variable $idUsuario
+[Method: GET, Route: principal/home]
+in APPPATH\Models\Agendamentos_model.php on line 23.
+ 1 APPPATH\Models\Agendamentos_model.php(23): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $idUsuario', 'C:\\xampp\\htdocs\\clinica\\app\\Models\\Agendamentos_model.php', 23)
+ 2 APPPATH\Controllers\Principal.php(29): App\Models\Agendamentos_model->buscarAgendamentosPrincipal('2')
+ 3 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Principal->home()
+ 4 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Principal))
+ 5 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 8 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+DEBUG - 2025-03-19 20:36:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2025-03-19 20:36:54 --> mysqli_sql_exception: Table 'clinica.usuarios' doesn't exist in C:\xampp\htdocs\clinica\system\Database\MySQLi\Connection.php:327
+Stack trace:
+#0 C:\xampp\htdocs\clinica\system\Database\MySQLi\Connection.php(327): mysqli->query('SELECT `agendam...', 0)
+#1 C:\xampp\htdocs\clinica\system\Database\BaseConnection.php(738): CodeIgniter\Database\MySQLi\Connection->execute('SELECT `agendam...')
+#2 C:\xampp\htdocs\clinica\system\Database\BaseConnection.php(652): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT `agendam...')
+#3 C:\xampp\htdocs\clinica\system\Database\BaseBuilder.php(1649): CodeIgniter\Database\BaseConnection->query('SELECT `agendam...', Array, false)
+#4 C:\xampp\htdocs\clinica\system\Model.php(213): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\xampp\htdocs\clinica\system\BaseModel.php(609): CodeIgniter\Model->doFind(false, NULL)
+#6 C:\xampp\htdocs\clinica\app\Models\Agendamentos_model.php(25): CodeIgniter\BaseModel->find()
+#7 C:\xampp\htdocs\clinica\app\Controllers\Principal.php(29): App\Models\Agendamentos_model->buscarAgendamentosPrincipal('2')
+#8 C:\xampp\htdocs\clinica\system\CodeIgniter.php(933): App\Controllers\Principal->home()
+#9 C:\xampp\htdocs\clinica\system\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Principal))
+#10 C:\xampp\htdocs\clinica\system\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#11 C:\xampp\htdocs\clinica\system\Boot.php(334): CodeIgniter\CodeIgniter->run()
+#12 C:\xampp\htdocs\clinica\system\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+#13 C:\xampp\htdocs\clinica\public\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+#14 {main}
+CRITICAL - 2025-03-19 20:36:54 --> CodeIgniter\Database\Exceptions\DatabaseException: Table 'clinica.usuarios' doesn't exist
+[Method: GET, Route: principal/home]
+in SYSTEMPATH\Database\BaseConnection.php on line 692.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(1649): CodeIgniter\Database\BaseConnection->query('SELECT `agendamentos`.*, `usuarios`.`nome` AS `usuario_nome`, `locais`.`nome` AS `local_nome`
+FROM `agendamento`
+JOIN `usuarios` ON `usuarios`.`id_usuario` = `agendamentos`.`id_usuario`
+JOIN `locais` ON `locais`.`id_local` = `agendamentos`.`id_local`
+WHERE `agendamentos`.`id_usuario` = :agendamentos.id_usuario:
+ LIMIT 4', [...], false)
+ 2 SYSTEMPATH\Model.php(213): CodeIgniter\Database\BaseBuilder->get()
+ 3 SYSTEMPATH\BaseModel.php(609): CodeIgniter\Model->doFind(false, null)
+ 4 APPPATH\Models\Agendamentos_model.php(25): CodeIgniter\BaseModel->find()
+ 5 APPPATH\Controllers\Principal.php(29): App\Models\Agendamentos_model->buscarAgendamentosPrincipal('2')
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Principal->home()
+ 7 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Principal))
+ 8 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-03-19 20:36:54 --> [Caused by] CodeIgniter\Database\Exceptions\DatabaseException: Table 'clinica.usuarios' doesn't exist
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 332.
+ 1 SYSTEMPATH\Database\BaseConnection.php(738): CodeIgniter\Database\MySQLi\Connection->execute('SELECT `agendamentos`.*, `usuarios`.`nome` AS `usuario_nome`, `locais`.`nome` AS `local_nome`
+FROM `agendamento`
+JOIN `usuarios` ON `usuarios`.`id_usuario` = `agendamentos`.`id_usuario`
+JOIN `locais` ON `locais`.`id_local` = `agendamentos`.`id_local`
+WHERE `agendamentos`.`id_usuario` = \'2\'
+ LIMIT 4')
+ 2 SYSTEMPATH\Database\BaseConnection.php(652): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT `agendamentos`.*, `usuarios`.`nome` AS `usuario_nome`, `locais`.`nome` AS `local_nome`
+FROM `agendamento`
+JOIN `usuarios` ON `usuarios`.`id_usuario` = `agendamentos`.`id_usuario`
+JOIN `locais` ON `locais`.`id_local` = `agendamentos`.`id_local`
+WHERE `agendamentos`.`id_usuario` = \'2\'
+ LIMIT 4')
+ 3 SYSTEMPATH\Database\BaseBuilder.php(1649): CodeIgniter\Database\BaseConnection->query('SELECT `agendamentos`.*, `usuarios`.`nome` AS `usuario_nome`, `locais`.`nome` AS `local_nome`
+FROM `agendamento`
+JOIN `usuarios` ON `usuarios`.`id_usuario` = `agendamentos`.`id_usuario`
+JOIN `locais` ON `locais`.`id_local` = `agendamentos`.`id_local`
+WHERE `agendamentos`.`id_usuario` = :agendamentos.id_usuario:
+ LIMIT 4', [...], false)
+ 4 SYSTEMPATH\Model.php(213): CodeIgniter\Database\BaseBuilder->get()
+ 5 SYSTEMPATH\BaseModel.php(609): CodeIgniter\Model->doFind(false, null)
+ 6 APPPATH\Models\Agendamentos_model.php(25): CodeIgniter\BaseModel->find()
+ 7 APPPATH\Controllers\Principal.php(29): App\Models\Agendamentos_model->buscarAgendamentosPrincipal('2')
+ 8 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Principal->home()
+ 9 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Principal))
+10 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+11 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+12 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+13 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-03-19 20:36:54 --> [Caused by] mysqli_sql_exception: Table 'clinica.usuarios' doesn't exist
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 327.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(327): mysqli->query('SELECT `agendamentos`.*, `usuarios`.`nome` AS `usuario_nome`, `locais`.`nome` AS `local_nome`
+FROM `agendamento`
+JOIN `usuarios` ON `usuarios`.`id_usuario` = `agendamentos`.`id_usuario`
+JOIN `locais` ON `locais`.`id_local` = `agendamentos`.`id_local`
+WHERE `agendamentos`.`id_usuario` = \'2\'
+ LIMIT 4', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(738): CodeIgniter\Database\MySQLi\Connection->execute('SELECT `agendamentos`.*, `usuarios`.`nome` AS `usuario_nome`, `locais`.`nome` AS `local_nome`
+FROM `agendamento`
+JOIN `usuarios` ON `usuarios`.`id_usuario` = `agendamentos`.`id_usuario`
+JOIN `locais` ON `locais`.`id_local` = `agendamentos`.`id_local`
+WHERE `agendamentos`.`id_usuario` = \'2\'
+ LIMIT 4')
+ 3 SYSTEMPATH\Database\BaseConnection.php(652): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT `agendamentos`.*, `usuarios`.`nome` AS `usuario_nome`, `locais`.`nome` AS `local_nome`
+FROM `agendamento`
+JOIN `usuarios` ON `usuarios`.`id_usuario` = `agendamentos`.`id_usuario`
+JOIN `locais` ON `locais`.`id_local` = `agendamentos`.`id_local`
+WHERE `agendamentos`.`id_usuario` = \'2\'
+ LIMIT 4')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(1649): CodeIgniter\Database\BaseConnection->query('SELECT `agendamentos`.*, `usuarios`.`nome` AS `usuario_nome`, `locais`.`nome` AS `local_nome`
+FROM `agendamento`
+JOIN `usuarios` ON `usuarios`.`id_usuario` = `agendamentos`.`id_usuario`
+JOIN `locais` ON `locais`.`id_local` = `agendamentos`.`id_local`
+WHERE `agendamentos`.`id_usuario` = :agendamentos.id_usuario:
+ LIMIT 4', [...], false)
+ 5 SYSTEMPATH\Model.php(213): CodeIgniter\Database\BaseBuilder->get()
+ 6 SYSTEMPATH\BaseModel.php(609): CodeIgniter\Model->doFind(false, null)
+ 7 APPPATH\Models\Agendamentos_model.php(25): CodeIgniter\BaseModel->find()
+ 8 APPPATH\Controllers\Principal.php(29): App\Models\Agendamentos_model->buscarAgendamentosPrincipal('2')
+ 9 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Principal->home()
+10 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Principal))
+11 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+12 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+13 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+14 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+DEBUG - 2025-03-19 20:37:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2025-03-19 20:37:08 --> mysqli_sql_exception: Unknown table 'clinica.agendamentos' in C:\xampp\htdocs\clinica\system\Database\MySQLi\Connection.php:327
+Stack trace:
+#0 C:\xampp\htdocs\clinica\system\Database\MySQLi\Connection.php(327): mysqli->query('SELECT `agendam...', 0)
+#1 C:\xampp\htdocs\clinica\system\Database\BaseConnection.php(738): CodeIgniter\Database\MySQLi\Connection->execute('SELECT `agendam...')
+#2 C:\xampp\htdocs\clinica\system\Database\BaseConnection.php(652): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT `agendam...')
+#3 C:\xampp\htdocs\clinica\system\Database\BaseBuilder.php(1649): CodeIgniter\Database\BaseConnection->query('SELECT `agendam...', Array, false)
+#4 C:\xampp\htdocs\clinica\system\Model.php(213): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\xampp\htdocs\clinica\system\BaseModel.php(609): CodeIgniter\Model->doFind(false, NULL)
+#6 C:\xampp\htdocs\clinica\app\Models\Agendamentos_model.php(25): CodeIgniter\BaseModel->find()
+#7 C:\xampp\htdocs\clinica\app\Controllers\Principal.php(29): App\Models\Agendamentos_model->buscarAgendamentosPrincipal('2')
+#8 C:\xampp\htdocs\clinica\system\CodeIgniter.php(933): App\Controllers\Principal->home()
+#9 C:\xampp\htdocs\clinica\system\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Principal))
+#10 C:\xampp\htdocs\clinica\system\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#11 C:\xampp\htdocs\clinica\system\Boot.php(334): CodeIgniter\CodeIgniter->run()
+#12 C:\xampp\htdocs\clinica\system\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+#13 C:\xampp\htdocs\clinica\public\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+#14 {main}
+CRITICAL - 2025-03-19 20:37:08 --> CodeIgniter\Database\Exceptions\DatabaseException: Unknown table 'clinica.agendamentos'
+[Method: GET, Route: principal/home]
+in SYSTEMPATH\Database\BaseConnection.php on line 692.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(1649): CodeIgniter\Database\BaseConnection->query('SELECT `agendamentos`.*, `usuario`.`nome` AS `usuario_nome`, `locais`.`nome` AS `local_nome`
+FROM `agendamento`
+JOIN `usuario` ON `usuario`.`id_usuario` = `agendamentos`.`id_usuario`
+JOIN `locais` ON `locais`.`id_local` = `agendamentos`.`id_local`
+WHERE `agendamentos`.`id_usuario` = :agendamentos.id_usuario:
+ LIMIT 4', [...], false)
+ 2 SYSTEMPATH\Model.php(213): CodeIgniter\Database\BaseBuilder->get()
+ 3 SYSTEMPATH\BaseModel.php(609): CodeIgniter\Model->doFind(false, null)
+ 4 APPPATH\Models\Agendamentos_model.php(25): CodeIgniter\BaseModel->find()
+ 5 APPPATH\Controllers\Principal.php(29): App\Models\Agendamentos_model->buscarAgendamentosPrincipal('2')
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Principal->home()
+ 7 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Principal))
+ 8 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-03-19 20:37:08 --> [Caused by] CodeIgniter\Database\Exceptions\DatabaseException: Unknown table 'clinica.agendamentos'
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 332.
+ 1 SYSTEMPATH\Database\BaseConnection.php(738): CodeIgniter\Database\MySQLi\Connection->execute('SELECT `agendamentos`.*, `usuario`.`nome` AS `usuario_nome`, `locais`.`nome` AS `local_nome`
+FROM `agendamento`
+JOIN `usuario` ON `usuario`.`id_usuario` = `agendamentos`.`id_usuario`
+JOIN `locais` ON `locais`.`id_local` = `agendamentos`.`id_local`
+WHERE `agendamentos`.`id_usuario` = \'2\'
+ LIMIT 4')
+ 2 SYSTEMPATH\Database\BaseConnection.php(652): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT `agendamentos`.*, `usuario`.`nome` AS `usuario_nome`, `locais`.`nome` AS `local_nome`
+FROM `agendamento`
+JOIN `usuario` ON `usuario`.`id_usuario` = `agendamentos`.`id_usuario`
+JOIN `locais` ON `locais`.`id_local` = `agendamentos`.`id_local`
+WHERE `agendamentos`.`id_usuario` = \'2\'
+ LIMIT 4')
+ 3 SYSTEMPATH\Database\BaseBuilder.php(1649): CodeIgniter\Database\BaseConnection->query('SELECT `agendamentos`.*, `usuario`.`nome` AS `usuario_nome`, `locais`.`nome` AS `local_nome`
+FROM `agendamento`
+JOIN `usuario` ON `usuario`.`id_usuario` = `agendamentos`.`id_usuario`
+JOIN `locais` ON `locais`.`id_local` = `agendamentos`.`id_local`
+WHERE `agendamentos`.`id_usuario` = :agendamentos.id_usuario:
+ LIMIT 4', [...], false)
+ 4 SYSTEMPATH\Model.php(213): CodeIgniter\Database\BaseBuilder->get()
+ 5 SYSTEMPATH\BaseModel.php(609): CodeIgniter\Model->doFind(false, null)
+ 6 APPPATH\Models\Agendamentos_model.php(25): CodeIgniter\BaseModel->find()
+ 7 APPPATH\Controllers\Principal.php(29): App\Models\Agendamentos_model->buscarAgendamentosPrincipal('2')
+ 8 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Principal->home()
+ 9 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Principal))
+10 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+11 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+12 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+13 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-03-19 20:37:08 --> [Caused by] mysqli_sql_exception: Unknown table 'clinica.agendamentos'
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 327.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(327): mysqli->query('SELECT `agendamentos`.*, `usuario`.`nome` AS `usuario_nome`, `locais`.`nome` AS `local_nome`
+FROM `agendamento`
+JOIN `usuario` ON `usuario`.`id_usuario` = `agendamentos`.`id_usuario`
+JOIN `locais` ON `locais`.`id_local` = `agendamentos`.`id_local`
+WHERE `agendamentos`.`id_usuario` = \'2\'
+ LIMIT 4', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(738): CodeIgniter\Database\MySQLi\Connection->execute('SELECT `agendamentos`.*, `usuario`.`nome` AS `usuario_nome`, `locais`.`nome` AS `local_nome`
+FROM `agendamento`
+JOIN `usuario` ON `usuario`.`id_usuario` = `agendamentos`.`id_usuario`
+JOIN `locais` ON `locais`.`id_local` = `agendamentos`.`id_local`
+WHERE `agendamentos`.`id_usuario` = \'2\'
+ LIMIT 4')
+ 3 SYSTEMPATH\Database\BaseConnection.php(652): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT `agendamentos`.*, `usuario`.`nome` AS `usuario_nome`, `locais`.`nome` AS `local_nome`
+FROM `agendamento`
+JOIN `usuario` ON `usuario`.`id_usuario` = `agendamentos`.`id_usuario`
+JOIN `locais` ON `locais`.`id_local` = `agendamentos`.`id_local`
+WHERE `agendamentos`.`id_usuario` = \'2\'
+ LIMIT 4')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(1649): CodeIgniter\Database\BaseConnection->query('SELECT `agendamentos`.*, `usuario`.`nome` AS `usuario_nome`, `locais`.`nome` AS `local_nome`
+FROM `agendamento`
+JOIN `usuario` ON `usuario`.`id_usuario` = `agendamentos`.`id_usuario`
+JOIN `locais` ON `locais`.`id_local` = `agendamentos`.`id_local`
+WHERE `agendamentos`.`id_usuario` = :agendamentos.id_usuario:
+ LIMIT 4', [...], false)
+ 5 SYSTEMPATH\Model.php(213): CodeIgniter\Database\BaseBuilder->get()
+ 6 SYSTEMPATH\BaseModel.php(609): CodeIgniter\Model->doFind(false, null)
+ 7 APPPATH\Models\Agendamentos_model.php(25): CodeIgniter\BaseModel->find()
+ 8 APPPATH\Controllers\Principal.php(29): App\Models\Agendamentos_model->buscarAgendamentosPrincipal('2')
+ 9 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Principal->home()
+10 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Principal))
+11 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+12 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+13 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+14 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+DEBUG - 2025-03-19 20:37:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2025-03-19 20:37:21 --> mysqli_sql_exception: Unknown column 'agendamentos.id_usuario' in 'where clause' in C:\xampp\htdocs\clinica\system\Database\MySQLi\Connection.php:327
+Stack trace:
+#0 C:\xampp\htdocs\clinica\system\Database\MySQLi\Connection.php(327): mysqli->query('SELECT *\nFROM `...', 0)
+#1 C:\xampp\htdocs\clinica\system\Database\BaseConnection.php(738): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *\nFROM `...')
+#2 C:\xampp\htdocs\clinica\system\Database\BaseConnection.php(652): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *\nFROM `...')
+#3 C:\xampp\htdocs\clinica\system\Database\BaseBuilder.php(1649): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 C:\xampp\htdocs\clinica\system\Model.php(213): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\xampp\htdocs\clinica\system\BaseModel.php(609): CodeIgniter\Model->doFind(false, NULL)
+#6 C:\xampp\htdocs\clinica\app\Models\Agendamentos_model.php(25): CodeIgniter\BaseModel->find()
+#7 C:\xampp\htdocs\clinica\app\Controllers\Principal.php(29): App\Models\Agendamentos_model->buscarAgendamentosPrincipal('2')
+#8 C:\xampp\htdocs\clinica\system\CodeIgniter.php(933): App\Controllers\Principal->home()
+#9 C:\xampp\htdocs\clinica\system\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Principal))
+#10 C:\xampp\htdocs\clinica\system\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#11 C:\xampp\htdocs\clinica\system\Boot.php(334): CodeIgniter\CodeIgniter->run()
+#12 C:\xampp\htdocs\clinica\system\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+#13 C:\xampp\htdocs\clinica\public\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+#14 {main}
+CRITICAL - 2025-03-19 20:37:21 --> CodeIgniter\Database\Exceptions\DatabaseException: Unknown column 'agendamentos.id_usuario' in 'where clause'
+[Method: GET, Route: principal/home]
+in SYSTEMPATH\Database\BaseConnection.php on line 692.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(1649): CodeIgniter\Database\BaseConnection->query('SELECT *
+FROM `agendamento`
+JOIN `usuario` ON `usuario`.`id_usuario` = `agendamentos`.`id_usuario`
+JOIN `locais` ON `locais`.`id_local` = `agendamentos`.`id_local`
+WHERE `agendamentos`.`id_usuario` = :agendamentos.id_usuario:
+ LIMIT 4', [...], false)
+ 2 SYSTEMPATH\Model.php(213): CodeIgniter\Database\BaseBuilder->get()
+ 3 SYSTEMPATH\BaseModel.php(609): CodeIgniter\Model->doFind(false, null)
+ 4 APPPATH\Models\Agendamentos_model.php(25): CodeIgniter\BaseModel->find()
+ 5 APPPATH\Controllers\Principal.php(29): App\Models\Agendamentos_model->buscarAgendamentosPrincipal('2')
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Principal->home()
+ 7 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Principal))
+ 8 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-03-19 20:37:21 --> [Caused by] CodeIgniter\Database\Exceptions\DatabaseException: Unknown column 'agendamentos.id_usuario' in 'where clause'
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 332.
+ 1 SYSTEMPATH\Database\BaseConnection.php(738): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *
+FROM `agendamento`
+JOIN `usuario` ON `usuario`.`id_usuario` = `agendamentos`.`id_usuario`
+JOIN `locais` ON `locais`.`id_local` = `agendamentos`.`id_local`
+WHERE `agendamentos`.`id_usuario` = \'2\'
+ LIMIT 4')
+ 2 SYSTEMPATH\Database\BaseConnection.php(652): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *
+FROM `agendamento`
+JOIN `usuario` ON `usuario`.`id_usuario` = `agendamentos`.`id_usuario`
+JOIN `locais` ON `locais`.`id_local` = `agendamentos`.`id_local`
+WHERE `agendamentos`.`id_usuario` = \'2\'
+ LIMIT 4')
+ 3 SYSTEMPATH\Database\BaseBuilder.php(1649): CodeIgniter\Database\BaseConnection->query('SELECT *
+FROM `agendamento`
+JOIN `usuario` ON `usuario`.`id_usuario` = `agendamentos`.`id_usuario`
+JOIN `locais` ON `locais`.`id_local` = `agendamentos`.`id_local`
+WHERE `agendamentos`.`id_usuario` = :agendamentos.id_usuario:
+ LIMIT 4', [...], false)
+ 4 SYSTEMPATH\Model.php(213): CodeIgniter\Database\BaseBuilder->get()
+ 5 SYSTEMPATH\BaseModel.php(609): CodeIgniter\Model->doFind(false, null)
+ 6 APPPATH\Models\Agendamentos_model.php(25): CodeIgniter\BaseModel->find()
+ 7 APPPATH\Controllers\Principal.php(29): App\Models\Agendamentos_model->buscarAgendamentosPrincipal('2')
+ 8 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Principal->home()
+ 9 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Principal))
+10 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+11 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+12 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+13 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-03-19 20:37:21 --> [Caused by] mysqli_sql_exception: Unknown column 'agendamentos.id_usuario' in 'where clause'
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 327.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(327): mysqli->query('SELECT *
+FROM `agendamento`
+JOIN `usuario` ON `usuario`.`id_usuario` = `agendamentos`.`id_usuario`
+JOIN `locais` ON `locais`.`id_local` = `agendamentos`.`id_local`
+WHERE `agendamentos`.`id_usuario` = \'2\'
+ LIMIT 4', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(738): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *
+FROM `agendamento`
+JOIN `usuario` ON `usuario`.`id_usuario` = `agendamentos`.`id_usuario`
+JOIN `locais` ON `locais`.`id_local` = `agendamentos`.`id_local`
+WHERE `agendamentos`.`id_usuario` = \'2\'
+ LIMIT 4')
+ 3 SYSTEMPATH\Database\BaseConnection.php(652): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *
+FROM `agendamento`
+JOIN `usuario` ON `usuario`.`id_usuario` = `agendamentos`.`id_usuario`
+JOIN `locais` ON `locais`.`id_local` = `agendamentos`.`id_local`
+WHERE `agendamentos`.`id_usuario` = \'2\'
+ LIMIT 4')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(1649): CodeIgniter\Database\BaseConnection->query('SELECT *
+FROM `agendamento`
+JOIN `usuario` ON `usuario`.`id_usuario` = `agendamentos`.`id_usuario`
+JOIN `locais` ON `locais`.`id_local` = `agendamentos`.`id_local`
+WHERE `agendamentos`.`id_usuario` = :agendamentos.id_usuario:
+ LIMIT 4', [...], false)
+ 5 SYSTEMPATH\Model.php(213): CodeIgniter\Database\BaseBuilder->get()
+ 6 SYSTEMPATH\BaseModel.php(609): CodeIgniter\Model->doFind(false, null)
+ 7 APPPATH\Models\Agendamentos_model.php(25): CodeIgniter\BaseModel->find()
+ 8 APPPATH\Controllers\Principal.php(29): App\Models\Agendamentos_model->buscarAgendamentosPrincipal('2')
+ 9 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Principal->home()
+10 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Principal))
+11 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+12 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+13 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+14 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+DEBUG - 2025-03-19 20:37:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-03-19 20:42:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-03-19 20:43:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-03-19 20:44:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-03-19 20:48:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-03-19 20:48:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-03-19 20:49:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-03-19 20:51:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-03-19 20:52:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-03-19 20:52:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-03-19 20:52:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-03-19 20:53:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-03-19 20:53:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-03-19 20:57:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-03-19 20:57:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-03-19 20:58:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-03-19 20:59:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-03-19 20:59:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-03-19 20:59:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-03-19 21:00:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-03-19 21:00:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-03-19 21:00:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2025-03-19 21:00:46 --> ParseError: syntax error, unexpected token "echo"
+[Method: GET, Route: agendamentos/listar_agendamentos]
+in APPPATH\Views\agendamentos.php on line 286.
+ 1 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 2 SYSTEMPATH\Common.php(1173): CodeIgniter\View\View->render('agendamentos', [], true)
+ 3 APPPATH\Controllers\Agendamentos.php(38): view('agendamentos', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Agendamentos->listar_agendamentos()
+ 5 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Agendamentos))
+ 6 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+DEBUG - 2025-03-19 21:01:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-03-19 21:02:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-03-19 21:02:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-03-19 21:03:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-03-19 21:03:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-03-19 21:04:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-03-19 21:05:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-03-19 21:05:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-03-19 21:05:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-03-19 21:06:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-03-19 21:07:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-03-19 21:07:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-03-19 21:11:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-03-19 21:15:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-03-19 21:17:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-03-19 21:18:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-03-19 21:18:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-03-19 21:19:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-03-19 21:19:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-03-19 21:26:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-03-19 21:26:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-03-19 21:26:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2025-03-19 21:26:50 --> Error: Call to a member function with() on bool
+[Method: POST, Route: agendamentos/atualizar]
+in APPPATH\Controllers\Agendamentos.php on line 64.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Agendamentos->atualizar()
+ 2 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Agendamentos))
+ 3 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+DEBUG - 2025-03-19 21:27:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-03-19 21:28:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-03-19 21:28:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-03-19 21:28:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-03-19 21:28:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-03-19 21:33:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-03-19 21:33:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-03-19 21:33:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-03-19 21:33:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-03-19 21:36:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-03-19 21:37:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-03-19 21:39:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-03-19 21:39:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-03-19 21:40:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-03-19 21:41:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-03-19 21:42:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-03-19 21:42:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-03-19 21:42:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-03-19 21:43:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-03-19 21:43:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-03-19 21:44:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-03-19 21:45:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-03-19 21:54:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2025-03-19 21:54:51 --> ArgumentCountError: Too few arguments to function App\Models\Locais_model::buscarLocais(), 0 passed in C:\xampp\htdocs\clinica\app\Controllers\Locais.php on line 30 and exactly 1 expected
+[Method: GET, Route: locais/listar_locais]
+in APPPATH\Models\Locais_model.php on line 13.
+ 1 APPPATH\Controllers\Locais.php(30): App\Models\Locais_model->buscarLocais()
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Locais->listar_locais()
+ 3 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Locais))
+ 4 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+DEBUG - 2025-03-19 21:55:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-03-19 21:57:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2025-03-19 21:57:58 --> ErrorException: Undefined variable $dados_agendamento_principal
+[Method: GET, Route: locais/listar_locais]
+in APPPATH\Controllers\Locais.php on line 34.
+ 1 APPPATH\Controllers\Locais.php(34): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $dados_agendamento_principal', 'C:\\xampp\\htdocs\\clinica\\app\\Controllers\\Locais.php', 34)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Locais->listar_locais()
+ 3 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Locais))
+ 4 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+DEBUG - 2025-03-19 21:58:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-03-19 21:59:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-03-19 21:59:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-03-19 22:00:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-03-19 22:00:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-03-19 22:01:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-03-19 22:01:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-03-19 22:01:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-03-19 22:01:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-03-19 22:03:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-03-19 22:03:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-03-19 22:05:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-03-19 22:11:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-03-19 22:11:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-03-19 22:13:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2025-03-19 22:13:10 --> ErrorException: Undefined variable $data
+[Method: POST, Route: locais/inserir]
+in APPPATH\Controllers\Locais.php on line 75.
+ 1 APPPATH\Controllers\Locais.php(75): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $data', 'C:\\xampp\\htdocs\\clinica\\app\\Controllers\\Locais.php', 75)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Locais->inserir()
+ 3 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Locais))
+ 4 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+DEBUG - 2025-03-19 22:13:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-03-19 22:13:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-03-19 22:14:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-03-19 22:15:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-03-19 22:16:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-03-19 22:19:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-03-19 22:24:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-03-19 22:24:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-03-19 22:28:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-03-19 22:32:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-03-19 22:33:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-03-19 22:34:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-03-19 22:34:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-03-19 22:34:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-03-19 22:34:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-03-19 22:34:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-03-19 22:35:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-03-19 22:35:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-03-19 22:35:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-03-19 22:36:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-03-19 22:36:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-03-19 22:36:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-03-19 22:36:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-03-19 22:37:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-03-19 22:37:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-03-19 22:37:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-03-19 22:37:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-03-19 22:38:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-03-19 22:39:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-03-19 22:39:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-03-19 22:40:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-03-19 22:40:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-03-19 22:41:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-03-19 22:41:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-03-19 22:41:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-03-19 22:42:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-03-19 22:42:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-03-19 22:42:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-03-19 22:42:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-03-19 22:42:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-03-19 22:43:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-03-19 22:43:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-03-19 22:44:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-03-19 22:46:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-03-19 22:46:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-03-19 22:46:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-03-19 22:47:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-03-19 22:47:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-03-19 22:47:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-03-19 22:47:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-03-19 22:47:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-03-19 22:47:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-03-19 22:48:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-03-19 22:48:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-03-19 22:48:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-03-19 22:48:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-03-19 22:48:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-03-19 22:49:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-03-19 22:49:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-03-19 22:49:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-03-19 22:49:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-03-19 22:51:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-03-19 22:51:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-03-19 22:51:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-03-19 22:54:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-03-19 22:54:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-03-19 22:54:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-03-19 22:54:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-03-19 22:55:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-03-19 22:55:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-03-19 22:55:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-03-19 22:55:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-03-19 22:55:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-03-19 23:00:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-03-19 23:00:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
