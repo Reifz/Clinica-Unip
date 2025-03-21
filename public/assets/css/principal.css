@@ -1,0 +1,55 @@
+body {display: flex; flex-direction: column;  min-height: 100vh; margin: 0; padding: 0;}
+
+.div_login{width: 30%;}
+
+.container_v2{--bs-gutter-y: 0;padding-right: calc(var(--bs-gutter-x)* .5);padding-left: calc(var(--bs-gutter-x)* .5);margin-right: auto;margin-left: auto;}
+
+.div_img{display: flex;justify-content: center;}
+
+.botao_v2{width: 100%;}
+
+.img_formatar{width: 50%;height: 50%;}
+
+a.status {color:rgb(45 147 5);text-decoration: underline;}
+
+.img-fluid_v2 {max-width: 50%;height: auto;}
+
+.img-boneco {max-width: 60%;height: auto;}
+
+.div-fluid_v2 {max-width: 100%;height: auto;}
+
+.bg-blue { --bs-bg-opacity: 1;background-color: #00ADBD  !important;}
+
+.bg-blue-dark {--bs-bg-opacity: 1;background-color: #01838f  !important;}
+
+a{font-size: 14px;font-weight: bold;color: white;}
+
+.background-div-destacado {background: #01838f;border-radius: 20px;padding: 20px;margin-top: 10px; }
+
+footer p { margin: 0;}
+
+footer h5 { margin-bottom: 10px; }
+
+footer { margin: 0; padding: 1rem 0;  }
+
+.icone { font-size: 50px  !important; color: #ffffff; }
+
+.whatsapp-icon { position: fixed; bottom: 47px;  right: 20px;  background-color: #0905f8; color: white;  border-radius: 50%;  padding: 15px; box-shadow: 0 2px 10px rgba(0, 0, 0, 0.2);  text-align: center; z-index: 1000; transition: background-color 0.3s; }
+
+.whatsapp-icon:hover { background-color: #128c82; }
+
+.chat-box { position: fixed; bottom: 80px; right: 20px;  width: 300px; background-color: white;  border: 1px solid #ccc; border-radius: 8px; box-shadow: 0 2px 10px rgba(0, 0, 0, 0.2);display: none;  z-index: 1000; }
+
+.chat-header { background-color: #0a22f8;  color: white;  padding: 10px; border-radius: 8px 8px 0 0;}
+
+.chat-history { height: 400px;  overflow-y: auto; padding: 10px; border: 1px solid #ccc;  border-top: none; }
+
+.chat-input { display: flex;  padding: 20px; }
+
+.chat-input input { flex: 1; margin-right: 10px;}
+
+.alert {max-width: 300px;word-wrap: break-word;}
+
+.cards_ajuste {height: 150px; object-fit: cover; width: 100%; border-radius: 6px;}
+
+.img-cards_ajuste {max-width: 10%;height: auto;}
